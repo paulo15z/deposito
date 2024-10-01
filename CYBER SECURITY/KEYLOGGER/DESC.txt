@@ -1,0 +1,3 @@
+keyloggers nao sao usados apenas de maneira nociva, alguns sistemas de prevencao de
+perca de dados tbm faz uso da ferramenta
+
